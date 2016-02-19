@@ -1,0 +1,13 @@
+{
+    "name": "bouh/paginator",
+    "description" : "Bouh Paginator",
+    "type": "library",
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4" : {
+            "Bouh\\Paginator\\": "src/Paginator/"
+        }
+    }
+}
